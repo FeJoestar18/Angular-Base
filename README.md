@@ -232,5 +232,5 @@ Se este projeto te ajudou, considere dar uma ⭐️ no repositório!
 ---
 
 <div align="center">
-  Feitopor <a href="https://github.com/FeJoestar18">FeJoestar18</a>
+  Feito por <a href="https://github.com/FeJoestar18">FeJoestar18</a>
 </div>
