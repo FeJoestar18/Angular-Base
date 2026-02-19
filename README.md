@@ -1,30 +1,30 @@
-# 🚀 Angular-Base
+# Angular-Base
 
 [![Angular Version](https://img.shields.io/badge/Angular-21.1-red.svg)](https://angular.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue.svg)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/Node.js-24.x-green.svg)](https://nodejs.org/)
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 **Angular-Base** é um template/boilerplate profissional para iniciar projetos Angular rapidamente com as melhores práticas já configuradas. Este projeto oferece uma estrutura sólida e organizada, permitindo que você comece a desenvolver imediatamente sem se preocupar com configurações iniciais.
 
 O projeto inclui configurações otimizadas de TypeScript, linting com ESLint, formatação de código com Prettier, e testes prontos para uso, proporcionando um ambiente de desenvolvimento consistente e produtivo.
 
-## ✨ Features
+## Features
 
-- 🎯 **Angular 21.1** - Última versão do framework com recursos modernos
-- 📦 **Configuração Completa** - TypeScript, ESLint e Prettier pré-configurados
-- 🔒 **Strict Mode** - TypeScript em modo strict para maior segurança de tipos
-- 🎨 **SCSS Support** - Pré-processador CSS configurado
-- 🧪 **Testing Ready** - Vitest configurado para testes unitários
-- 🔄 **Routing** - Angular Router configurado e pronto para uso
-- 📝 **EditorConfig** - Consistência de código entre diferentes editores
-- 🚀 **Build Otimizado** - Configurações de build para produção
-- 📊 **Code Quality** - Linting e formatação automatizados
-- 🛠️ **Scripts NPM** - Comandos úteis para desenvolvimento
+-  **Angular 21.1** - Última versão do framework com recursos modernos
+-  **Configuração Completa** - TypeScript, ESLint e Prettier pré-configurados
+-  **Strict Mode** - TypeScript em modo strict para maior segurança de tipos
+-  **SCSS Support** - Pré-processador CSS configurado
+-  **Testing Ready** - Vitest configurado para testes unitários
+-  **Routing** - Angular Router configurado e pronto para uso
+-  **EditorConfig** - Consistência de código entre diferentes editores
+-  **Build Otimizado** - Configurações de build para produção
+-  **Code Quality** - Linting e formatação automatizados
+-  **Scripts NPM** - Comandos úteis para desenvolvimento
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 Este projeto utiliza as seguintes tecnologias:
 
@@ -36,7 +36,7 @@ Este projeto utiliza as seguintes tecnologias:
 - **[ESLint](https://eslint.org/)** - Linting de código
 - **[Prettier](https://prettier.io/)** - Formatação de código
 
-## 📦 Pré-requisitos
+## Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado:
 
@@ -50,7 +50,7 @@ Para instalar o Angular CLI globalmente:
 npm install -g @angular/cli
 ```
 
-## 🚀 Como Usar
+## Como Usar
 
 ### Instalação
 
@@ -125,7 +125,7 @@ npm run format
 npm run format:check
 ```
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 Angular-Base/
@@ -155,7 +155,7 @@ Angular-Base/
 └── README.md                  # Este arquivo
 ```
 
-## 🤝 Como Contribuir
+## Como Contribuir
 
 Contribuições são sempre bem-vindas! Se você deseja contribuir com este projeto:
 
@@ -167,7 +167,7 @@ Contribuições são sempre bem-vindas! Se você deseja contribuir com este proj
 
 Para mais detalhes sobre como contribuir, consulte o arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## 📋 Scripts Disponíveis
+## Scripts Disponíveis
 
 | Script | Descrição |
 |--------|-----------|
@@ -181,7 +181,7 @@ Para mais detalhes sobre como contribuir, consulte o arquivo [CONTRIBUTING.md](C
 | `npm run format` | Formata o código com Prettier |
 | `npm run format:check` | Verifica a formatação do código |
 
-## 🔧 Configurações
+## Configurações
 
 ### TypeScript
 
@@ -209,18 +209,18 @@ Prettier está configurado para manter um estilo de código consistente:
 - Trailing commas: ES5
 - Parser especial para templates Angular
 
-## 📝 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 👤 Autor
+## Autor
 
 **FeJoestar18** (Felipe Amaro Souza de Jesus)
 
 - GitHub: [@FeJoestar18](https://github.com/FeJoestar18)
 - Projeto: [Angular-Base](https://github.com/FeJoestar18/Angular-Base)
 
-## 🙏 Agradecimentos
+## Agradecimentos
 
 - Comunidade Angular pela excelente documentação
 - Todos os contribuidores que ajudam a melhorar este projeto
@@ -232,5 +232,5 @@ Se este projeto te ajudou, considere dar uma ⭐️ no repositório!
 ---
 
 <div align="center">
-  Feito com ❤️ por <a href="https://github.com/FeJoestar18">FeJoestar18</a>
+  Feitopor <a href="https://github.com/FeJoestar18">FeJoestar18</a>
 </div>
